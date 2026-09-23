@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "appId": "cpc-quality-admin",
+  "version": "0.0.0",
+  "releaseTag": "",
+  "assetName": "CPC-Quality-Admin.zip",
+  "sha256": "",
+  "mandatory": false,
+  "notes": "Update channel initialized. No production update is published yet."
+}
